@@ -45,3 +45,35 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">60 mil pesos mexicanos - Materiales&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">10 mil pesos mexicanos - Productos por 8 meses</span></li>
 </ul>
+<hr />
+<h2>Problem statement template</h2>
+<p><span style="font-weight: 400;">Albora es una plataforma digital que busca impulsar iniciativas que buscan un M&eacute;xico en paz. Busca establecer una comunidad solidaria en la que exista un nivel de confianza entre los mexicanos. DIvulga historias de organizaciones que ayudan a diferentes comunidades necesitadas.</span></p>
+<p><span style="font-weight: 400;">Para lograr el objetivo de Albora es necesario que llegue la informaci&oacute;n a una cantidad grande de personas. El problema es que se ha observado que la cantidad de personas que visitan la p&aacute;gina es mucho menor a la cantidad de personas que se suscriben al servicio para recibir informaci&oacute;n, por lo que afecta directamente el objetivo de la organizaci&oacute;n.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Esta situaci&oacute;n podr&iacute;a solucionarse si se realizan algunos cambios en las p&aacute;gina oficial de Albora tales como hacer el bot&oacute;n de suscribir atractivo para el usuario y/o crear un pop-up invitando al usuario a suscribirse, ya que es posible que el problema est&eacute; ligado a el dise&ntilde;o interactivo de la misma.</span></p>
+<p><br /><br /></p>
+<p><strong>Business Assumptions:</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Get informed</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The stories reading in the website</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">People that are interested in social change</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make people aware of what many organizations are doing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">They can be part of a community that shares the same interests</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Social media and websites&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It's possible that the established community donates money to the organization, but it is not the goal of it</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Other organizations that fight for social change</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Spreading the message of the organization through social media, etc. This way more people are aware Albora exists</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">That it depends from other people. The biggest risk is that people may not know about Albora, therefore the stories won't be spreaded and the function of the platform won't do.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Same as no. 9</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">When there is a discussion about the stories that are shared in the website, then there is no doubt the platform is accomplishing its goal.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The website is being spreaded or the shared stories in the platform are not real.&nbsp;</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>User Assumptions</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cualquier persona que est&aacute; interesada en el cambio social y tiene acceso a una computadora con internet.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Si una persona est&aacute; realmente interesada en cambio social, existe la opci&oacute;n de que forme parte de la red de personas de Albora.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Esa falta de informaci&oacute;n que se puede llegar a tener respecto a asuntos que necesitan ayuda para lograr un cambio social.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cuando exista el acceso a una computadora y a internet.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Que la p&aacute;gina sea llamativa, que la informaci&oacute;n sea relevante y ver&iacute;dica.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Necesita tener un buen dise&ntilde;o en el cual se pueda expresar el profesionalismo de Albora, as&iacute; como que tenga una buena funcionalidad. Creo que una forma de hacer como un chat con las personas de la organizaci&oacute;n ser&iacute;a una forma de hacer que la comunicaci&oacute;n se sienta mucho m&aacute;s org&aacute;nica. </span></li>
+</ol>
